@@ -14,10 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        > Hello Word!   Hello AWS !    Hello New technology!
-        <p>this is my first App to deploy in AWS
-        </p>
-          Learn React
+        > 
         </a>
       </header>
     </div>
